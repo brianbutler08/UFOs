@@ -14,11 +14,11 @@ The UFO sightings data set contained seven fields, five of which were developed 
 - Shape of object sighted
 
 ### Not filtered
--Duration of sighting
+- Duration of sighting
 - Comments
 
 # Results
 
-
+The final website 
 
 # Summary
