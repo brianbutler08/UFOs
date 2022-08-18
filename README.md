@@ -21,22 +21,35 @@ The UFO sightings data set contained seven fields, five of which were developed 
 
 The website may be accessed here: https://brianbutler08.github.io/UFOs/
 
-![]("https://github.com/brianbutler08/UFOs/blob/main/images%20for%20READme/website.png")
+![](https://github.com/brianbutler08/UFOs/blob/main/images%20for%20READme/website.png)
 
 The page includes a title and introduction, but the primary use is the filterable sightings data towards the bottom.
 
-The first available filter is for the date of the reported UFO sighting. Currently, the database includes sightings from the first half of January 2010. The data must be entered with a one or two digit day and month, and a four digit year, spearated by forward slashes.
+![](https://github.com/brianbutler08/UFOs/blob/main/images%20for%20READme/filters.png)
 
-The city field is case sensitive and currently all city data is lowercase.
+The first available filter is for the **date** of the reported UFO sighting. Currently, the database includes sightings from the first half of January 2010. The data must be entered with a one or two digit day and month, and a four digit year, spearated by forward slashes.
 
-Similarly, state data is held as the two digit state id, all lowercase.
+![](https://github.com/brianbutler08/UFOs/blob/main/images%20for%20READme/date.png)
 
-Country codes are also two digit and lowercase. The data set currenly has data from the United States (us) and Canada (ca).
+The **city** field is case sensitive and currently all city data is lowercase.
 
-The final filter is based on the shape of the UFO was was reported. 
+![](https://github.com/brianbutler08/UFOs/blob/main/images%20for%20READme/city.png)
 
-Each filter can of course be used idependently or in conjunction with another other number of filters.
+Similarly, **state** data is held as the two digit state id, all lowercase.
 
+![](https://github.com/brianbutler08/UFOs/blob/main/images%20for%20READme/state.png)
+
+**Country** codes are also two digit and lowercase. The data set currenly has data from the United States (us) and Canada (ca).
+
+![](https://github.com/brianbutler08/UFOs/blob/main/images%20for%20READme/country.png)
+
+The final filter is based on the **shape** of the UFO was was reported.
+
+![](https://github.com/brianbutler08/UFOs/blob/main/images%20for%20READme/shape.png)
+
+Each filter can of course be used idependently or in conjunction with another number of filters.
+
+![](https://github.com/brianbutler08/UFOs/blob/main/images%20for%20READme/filters.png)
 
 # Summary
 
