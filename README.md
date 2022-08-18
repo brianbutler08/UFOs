@@ -19,6 +19,27 @@ The UFO sightings data set contained seven fields, five of which were developed 
 
 # Results
 
-The final website 
+The website may be accessed here: https://brianbutler08.github.io/UFOs/
+
+The page includes a title and introduction, but the primary use is the filterable sightings data towards the bottom.
+
+The first available filter is for the date of the reported UFO sighting. Currently, the database includes sightings from the first half of January 2010. The data must be entered with a one or two digit day and month, and a four digit year, spearated by forward slashes.
+
+The city field is case sensitive and currently all city data is lowercase.
+
+Similarly, state data is held as the two digit state id, all lowercase.
+
+Country codes are also two digit and lowercase. The data set currenly has data from the United States (us) and Canada (ca).
+
+The final filter is based on the shape of the UFO was was reported. 
+
+Each filter can of course be used idependently or in conjunction with another other number of filters.
+
 
 # Summary
+
+Despite the usefulness of the webpage, there is always room for improvement. One major drawback of its current design is that it's perhaps too simple, having all of the elements on a sinlge page where scrolling is required to see every element. As more content is added, this situation will only get more cumbersome. There perhaps should be a main menu near the top with separate tabs for writings, headlines, the sightings data set, and anything that may be added in the future.
+
+A suggested area for development would be a way to inform the user about the type(s) of data included in each field in order to make it easier to search. For example, the 'shape' field contains about a dozen different shapes to search for, but if you had no idea what the options were it would be very difficult to know what you are looking for. Perhaps a dropdown menu to choose from would allow users to see all the available choices.
+
+Additionally, to be properly useful to users, the filters could allow for more than a single choice per field. For example, a user could search for 'circle' AND 'oval' shaped sightings in the same search. Or you could enter a date range, instead of only a single date.
