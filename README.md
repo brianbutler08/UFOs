@@ -49,7 +49,7 @@ The final filter is based on the **shape** of the UFO that was reported.
 
 Each filter can of course be used idependently or in conjunction with another number of filters.
 
-![](https://github.com/brianbutler08/UFOs/blob/main/images%20for%20READme/filters.png)
+![](https://github.com/brianbutler08/UFOs/blob/main/images%20for%20READme/all%20filters.png)
 
 # Summary
 
