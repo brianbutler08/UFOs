@@ -21,6 +21,8 @@ The UFO sightings data set contained seven fields, five of which were developed 
 
 The website may be accessed here: https://brianbutler08.github.io/UFOs/
 
+![]("https://github.com/brianbutler08/UFOs/blob/main/images%20for%20READme/website.png")
+
 The page includes a title and introduction, but the primary use is the filterable sightings data towards the bottom.
 
 The first available filter is for the date of the reported UFO sighting. Currently, the database includes sightings from the first half of January 2010. The data must be entered with a one or two digit day and month, and a four digit year, spearated by forward slashes.
