@@ -2,18 +2,18 @@
 
 # Overview
 
-For this project, we created a website that diplayed information from a data set of UFO sightings. The site contains a brief introduction from the author, but its primary purpose is a set of filters that allow the user to explore the data based on criteria of interest to them.
+For this project, we created a website that displayed information from a data set of UFO sightings. The site contains a brief introduction from the author, but its primary purpose is a set of filters that allow the user to explore the data based on criteria of interest to them.
 
-The UFO sightings data set contained seven fields, five of which were developed into filters:
+The UFO sightings data set contains seven fields, five of which were developed into filters:
 
-### Filtered
+### Filterable
 - Date of sighting
 - City
 - State
 - Country
 - Shape of object sighted
 
-### Not filtered
+### Not filterable
 - Duration of sighting
 - Comments
 
@@ -35,7 +35,7 @@ The **city** field is case sensitive and currently all city data is lowercase.
 
 ![](https://github.com/brianbutler08/UFOs/blob/main/images%20for%20READme/city.png)
 
-Similarly, **state** data is held as the two digit state id, all lowercase.
+Similarly, **state** data is held as the two digit state code, all lowercase.
 
 ![](https://github.com/brianbutler08/UFOs/blob/main/images%20for%20READme/state.png)
 
@@ -43,7 +43,7 @@ Similarly, **state** data is held as the two digit state id, all lowercase.
 
 ![](https://github.com/brianbutler08/UFOs/blob/main/images%20for%20READme/country.png)
 
-The final filter is based on the **shape** of the UFO was was reported.
+The final filter is based on the **shape** of the UFO that was reported.
 
 ![](https://github.com/brianbutler08/UFOs/blob/main/images%20for%20READme/shape.png)
 
